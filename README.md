@@ -1,34 +1,37 @@
-## Hi there, I am Pretty Faith 👋
+<h2 align="center">Hi there, I am Pretty Faith 👋</h2>
 
-🎓 I’m currently taking up a **Bachelor of Science in Computer Science** at **Ateneo de Davao University**.  
-💻 I’m passionate about **backend development** and working with **data**.
-
----
-
-### 🛠️ Tools I Use and Learn
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+<p align="center">
+I’m currently taking up a <strong>Bachelor of Science in Computer Science</strong> at <strong>Ateneo de Davao University</strong>.  
 </p>
 
----
 
-### 📫 Where to Find Me  
+<h3 align="center">🛠️ Tools I Use and Learn</h3>
 
-<a href="https://www.linkedin.com/in/YOURUSERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" />
-</a>  
-📧 pfimisuarez@addu.edu.ph  
-🌐 [GitHub](https://github.com/pfimisuarez)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,next,nodejs,mysql,postgres,docker,vscode,tensorflow" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-> “Keep learning, keep building.” 🚀
+
+
+<h3 align="center">📫 Where to Find Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prettyfaithmisuarez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:prettyfaithim@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/pfimisuarez">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+
+
+<p align="center"><em>“Keep learning, keep building.” 🚀</em></p>
