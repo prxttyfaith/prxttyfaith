@@ -8,14 +8,13 @@ I’m currently taking up a <strong>Bachelor of Science in Computer Science</str
 <h3 align="center">🛠️ Tools I Use and Learn</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,next,nodejs,mysql,postgres,docker,vscode,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,next,nodejs,mysql,postgres,docker,vscode,tensorflow,aws" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
-
 
 
 <h3 align="center">📫 Where to Find Me</h3>
