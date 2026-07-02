@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I am Pretty Faith 👋</h2>
 
 <p align="center">
-I’m currently taking up a <strong>Bachelor of Science in Computer Science</strong> at <strong>Ateneo de Davao University</strong>.  
+CS Graduate | Data Engineer
 </p>
 
 
