@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I am Pretty Faith 👋</h2>
+<h2 align="center">Hi there, I am Fai 👋</h2>
 
 <p align="center">
 CS Graduate | Data Engineer
